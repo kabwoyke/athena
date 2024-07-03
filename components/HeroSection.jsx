@@ -10,7 +10,7 @@ const HeroSection = () => {
             <h1 className="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white">Athena Link Ltd</h1>
             <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Athena Link: Providing lightning-fast, reliable internet service to keep you seamlessly connected to what matters. </p>
   
-            <Link href="#" className="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-white border bg-blue-500 border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800">
+            <Link href="/contact" className="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-white border bg-blue-500 border-blue-300 rounded-lg hover:bg-blue-400 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                 Contact Us
             </Link> 
         </div>
